@@ -1,0 +1,6 @@
+.img-container{
+    display: flex; 
+    height: 400px; 
+    width: 100%; 
+    justify-content: center;
+}
